@@ -1,0 +1,6 @@
+[submodule "pypaftol"]
+	path = pypaftol
+	url = https://github.com/RBGKew/pypaftol.git
+[submodule "PhylogenomicsPipelines"]
+	path = PhylogenomicsPipelines
+	url = https://github.com/baileyp1/PhylogenomicsPipelines.git
