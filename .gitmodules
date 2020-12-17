@@ -4,3 +4,6 @@
 [submodule "PhylogenomicsPipelines"]
 	path = PhylogenomicsPipelines
 	url = https://github.com/baileyp1/PhylogenomicsPipelines.git
+[submodule "PAFTOL_Validation_Pipeline"]
+	path = PAFTOL_Validation_Pipeline
+	url = https://github.com/RBGKew/PAFTOL_Validation_Pipeline.git
