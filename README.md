@@ -11,7 +11,7 @@ This software has been used in the following work:
 Baker et al (2021) A comprehensive phylogenomic platform for exploring the angiosperm tree of life (in preparation)
 ``` 
 
-<b>Note</b>: In order to draw down the submodules into this repository you need to clone it then update each of the submodules otherwise the submodule folders will remain empty:
+<b>Note</b>: In order to draw down the submodules into this repository you need to clone them, then update each of the submodules otherwise the submodule folders will remain empty:
 ```
 git clone --recurse-submodules https://github.com/RBGKew/KewTreeOfLife.git
 git submodule update --remote <submodule_repo_name>
