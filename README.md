@@ -6,10 +6,9 @@ This repository contains the software used to construct and analyse the [Kew Tre
 * PhylogenomicsPipelines - a submodule with two programs, one for overseeing the gene recovery and one for creating species trees
 * PAFTOL_Validation_Pipeline - a submodule for taxonomic validation of samples in a phylogenetic tree
 
-This software has been used in the following work:
-```
-Baker et al (2021) A comprehensive phylogenomic platform for exploring the angiosperm tree of life (in preparation)
-``` 
+This software has been reported in the following work:
+
+Baker et al (2021) A comprehensive phylogenomic platform for exploring the angiosperm tree of life (submitted to [bioRxiv](https://doi.org/10.1101/2021.02.22.431589) and Systematic Biology)
 
 <b>Note</b>: In order to draw down the submodules into this repository you need to first clone the KewTreeOfLife repository as normal, then update each of the submodules otherwise the submodule folders will remain empty:
 ```
