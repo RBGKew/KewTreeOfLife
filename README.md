@@ -8,10 +8,10 @@ This repository contains the software used to construct and analyse the [Kew Tre
 
 This software has been reported in the following work:
 
-Baker et al (2021) A comprehensive phylogenomic platform for exploring the angiosperm tree of life (submitted to [bioRxiv](https://doi.org/10.1101/2021.02.22.431589) and Systematic Biology)
+Baker et al (2021) A comprehensive phylogenomic platform for exploring the angiosperm tree of life (submitted to [bioRxiv](https://doi.org/10.1101/2021.02.22.431589) and now published in [Systematic Biology](https://doi.org/10.1093/sysbio/syab035))
 
 <b>Note</b>: In order to draw down the submodules into this repository you need to first clone the KewTreeOfLife repository as normal, then update each of the submodules otherwise the submodule folders will remain empty:
-```
+```bash
 git clone --recurse-submodules https://github.com/RBGKew/KewTreeOfLife.git
 git submodule update --remote <submodule_repo_name>
 ```
